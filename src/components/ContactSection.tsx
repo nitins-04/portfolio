@@ -26,7 +26,7 @@ const ContactSection = () => {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <Button size="lg" className="glow-primary font-heading font-semibold" asChild>
-              <a href="mailto:your.email@illinois.edu">
+              <a href="mailto:nitin.s1204@gmail.com">
                 <Mail size={18} />
                 Send an Email
                 <ArrowUpRight size={16} />
@@ -36,14 +36,14 @@ const ContactSection = () => {
 
           <div className="flex items-center justify-center gap-6">
             <a
-              href="#"
+              href="https://github.com/nitins-04"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors text-sm"
             >
               <Github size={18} />
               GitHub
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/nitin-shivannagari-a098a3236/"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors text-sm"
             >
               <Linkedin size={18} />
